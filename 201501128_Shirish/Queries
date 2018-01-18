@@ -1,0 +1,54 @@
+Query - 1
+
+GET /music/_search
+{
+  "query":
+    {
+      "match_phrase_prefix": 
+      {
+        "title":"incid"
+      }
+    }
+}
+
+
+Query - 2
+
+GET /music/_search
+{
+    "query": {
+        "bool": {
+            "must": {
+                "match_all": {} 
+            },
+            "filter": {
+                "range": {
+                    "song_length": {
+                        "gte":"3",
+                        "lte":"6"
+                    }
+                }
+            }
+        }
+    }
+}
+
+Query - 3
+
+GET /music/_search
+{
+    "size": 0,
+    "aggs": {
+        "max_length": { "max" : { "field" : "song_length"} }
+    }
+}
+
+Query - 4
+
+GET /music/_search
+{
+    "size": 0,
+    "aggs": {
+        "avg_length": { "avg" : { "field" : "song_length"} }
+    }
+}
