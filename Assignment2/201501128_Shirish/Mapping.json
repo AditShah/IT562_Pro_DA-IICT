@@ -1,0 +1,34 @@
+PUT music
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "custom_analyzer": {
+          "type":      "custom",
+          "tokenizer": "standard",
+          "char_filter": [],
+          "filter": [
+            "lowercase"
+          ]
+        }
+      }
+    }
+  },
+
+
+   "mappings": {
+        "song": {
+            "properties": {
+                "artist": {"type": "text", "analyzer":"custom_analyzer" },
+                "song_length": {"type": "float"},
+                "genre": {"type": "text","analyzer":"custom_analyzer"},
+                "title": {"type": "text","analyzer":"standard","boost": 2},
+                "id": {"type": "long"},
+                "release_date": {
+                    "type": "date",
+                    "format": "yyyy-MM-dd"
+                }
+            }
+        }
+    }
+}
