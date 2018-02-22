@@ -16,7 +16,8 @@ request_body = {
                 "song_length": {"type": "float"},
                 "genre": {"type": "text"},
                 "title": {"type": "text"},
-                "id": {"type": "long"},
+                "lyrics": {"type": "text"},
+                "_id": {"type": "long"},
                 "release_date": {
                     "type": "date",
                     "format": "yyyy-MM-dd"
@@ -37,6 +38,6 @@ data = json.loads(open("./data.json").read())
 
 i = 0
 
-while i < 500:
+while i < 25:
     es.index(index = 'music', doc_type = 'song', id = i, body = data[i])
     i += 1
