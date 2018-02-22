@@ -3,6 +3,7 @@
     "_id": 0,
     "title": "Perfect",
     "artist": "ED SHEERAN",
+    "lyrics": "I found a love for me Darling just dive right in And follow my lead Well I found a girl beautiful and sweet I never knew you were the someone waiting for me Cause we were just kids when we fell in love",
     "song_length": 6.12,
     "genre": "rock",
     "release_date": "2017-10-07"
@@ -11,6 +12,7 @@
     "_id": 1,
     "title": "Havana",
     "artist": "CAMILA CABELLO featuring YOUNG THUG",
+    "lyrics": "Havana, ooh na-na (ay) Half of my heart is in Havana, ooh-na-na (ay, ay) He took me back to East Atlanta, na-na-na Oh, but my heart is in Havana (ay) There's somethin' 'bout his manners (uh huh) Havana, ooh na-na (uh)",
     "song_length": 6.18,
     "genre": "romantic",
     "release_date": "2015-06-30"
@@ -19,6 +21,7 @@
     "_id": 2,
     "title": "Finesse",
     "artist": "BRUNO MARS & CARDI B",
+    "lyrics": "Ooh, don't we look good together? There's a reason why they watch all night long Yeah, know we'll turn heads forever So tonight I am gonna show you off",
     "song_length": 6.5,
     "genre": "romantic",
     "release_date": "2017-12-11"
@@ -27,6 +30,7 @@
     "_id": 3,
     "title": "Rockstar",
     "artist": "POST MALONE featuring 21 SAVAGE",
+    "lyrics": "Ayy, I've been fuckin' hoes and poppin' pillies Man, I feel just like a rockstar (star) Ayy, ayy, all my brothers got that gas And they always be smokin' like a Rasta Fuckin' with me, call up on a Uzi And show up, man them the shottas When my homies pull up on your block They make that thing go grrra-ta-ta-ta (pow, pow, pow)",
     "song_length": 4.57,
     "genre": "romantic",
     "release_date": "2016-01-01"
@@ -35,6 +39,7 @@
     "_id": 4,
     "title": "No Limit",
     "artist": "G-EAZY featuring A$AP ROCKY & CARDI B",
+    "lyrics": "If I hit it one time I'ma pipe her If I hit it two times then I like her If I fuck three times I'ma wife her It ain't safe for the black or the white girls It ain't safe It ain't safe It ain't safe It ain't safe Tell your man pipe up Nigga pipe up Hunnit bands from the safe In your face, what'd you say? Money, dance Turn this shit into a nightclub",
     "song_length": 6.48,
     "genre": "pop",
     "release_date": "2014-03-10"
@@ -43,6 +48,7 @@
     "_id": 5,
     "title": "Thunder",
     "artist": "IMAGINE DRAGONS",
+    "lyrics": "Just a young gun with a quick fuse I was uptight, wanna let loose I was dreaming of bigger things And wanna leave my own life behind Not a yes sir, not a follower Fit the box, fit the mold Have a seat in the foyer, take a number I was lightning before the thunder",
     "song_length": 2.02,
     "genre": "rock",
     "release_date": "2014-09-11"
@@ -51,14 +57,16 @@
     "_id": 6,
     "title": "Bad At Love",
     "artist": "HALSEY",
+    "lyrics": "Got a boy back home in Michigan And it tastes like Jack when I'm kissing him So I told him that I never really liked his friends Now he's gone and he's calling me a bitch again There's a guy that lives in a garden state And he told me that we make it 'til we graduate So I told him the music would be worth the wait But he wants me in the kitchen with a dinner plate",
     "song_length": 5.9,
     "genre": "bolly",
     "release_date": "2014-10-18"
   },
   {
     "_id": 7,
-    "title": "Too Good At Goodbyes ",
+    "title": "Too Good At Goodbyes",
     "artist": "SAM SMITH",
+    "lyrics": "You must think that I'm stupid You must think that I'm a fool You must think that I'm new to this But I have seen this all before",
     "song_length": 7.99,
     "genre": "pop",
     "release_date": "2016-01-31"
@@ -67,6 +75,7 @@
     "_id": 8,
     "title": "Filthy ",
     "artist": "JUSTIN TIMBERLAKE",
+    "lyrics": "Haters gon' say it's fake So real Haters gon' say it's fake So real Haters gon' say it's fake So real All my haters gon' say it's fake I guess I got my swagger back",
     "song_length": 6.85,
     "genre": "rock",
     "release_date": "2014-02-11"
@@ -75,6 +84,7 @@
     "_id": 9,
     "title": "MotorSport",
     "artist": "MIGOS, NICKI MINAJ & CARDI B",
+    "lyrics": "Motorsport, yeah, put that thing in sport (skrrt, skrrt) Shawty bad (bad), pop her like a cork (pop it) You a dork, never been a sport (dork, yeah) Pull up (woo, woo), jumpin' out the court (court, jump) Cotton candy (drink), my cup tastes like the fair (cotton) Straight up there (where?) we didn't take the stairs (where?) Faced my fears (fears), gave my mama tears (mama) Shiftin' gears (shift), on the Nawf, get serious (serious)",
     "song_length": 2.78,
     "genre": "romantic",
     "release_date": "2015-03-25"
@@ -83,6 +93,7 @@
     "_id": 10,
     "title": "New Rules ",
     "artist": "DUA LIPA",
+    "lyrics": "Talkin' in my sleep at night Makin' myself crazy (Out of my mind, out of my mind) Wrote it down and read it out Hopin' it would save me (Too many times, too many times) My love, he makes me feel like nobody else Nobody else But my love, he doesn't love me So I tell myself, I tell myself",
     "song_length": 2.81,
     "genre": "pop",
     "release_date": "2014-02-26"
@@ -91,6 +102,7 @@
     "_id": 11,
     "title": "Gucci Gang",
     "artist": "LIL PUMP",
+    "lyrics": "Gucci gang, Gucci gang, Gucci gang, Gucci gang Gucci gang, Gucci gang, Gucci gang (Gucci gang!) Spend ten racks on a new chain My bitch love do cocaine, ooh I fuck a bitch, I forgot her name I can't buy a bitch no wedding ring Rather go and buy Balmains",
     "song_length": 3.84,
     "genre": "bolly",
     "release_date": "2014-03-07"
@@ -99,6 +111,7 @@
     "_id": 12,
     "title": "Love",
     "artist": "KENDRICK LAMAR featuring ZACARI",
+    "lyrics": "If I didn't ride blade on curb, would you still (love me) If I made up my mind at work would you still (love me) Keep it a hundred, I’d rather you trust me than to (love me) Keep it a whole one hund', don't got you I got nothing",
     "song_length": 2.71,
     "genre": "pop",
     "release_date": "2015-07-25"
@@ -107,6 +120,7 @@
     "_id": 13,
     "title": "Bartier Cardi ",
     "artist": "CARDI B featuring 21 SAVAGE",
+    "lyrics": "Bardi in a 'Rari, diamonds all over my body Shinin' all over my body Put that bitch on Molly Bardi Bitch on Molly 21, diamonds all over my body Said, I got a bitch on Molly Ask who nigga, I'm 'bout it",
     "song_length": 3.56,
     "genre": "romantic",
     "release_date": "2017-03-14"
@@ -115,6 +129,7 @@
     "_id": 14,
     "title": "Let You Down",
     "artist": "NF",
+    "lyrics": "Feels like we're on the edge right now I wish that I could say I'm proud I'm sorry that I let you down Let you down All these voices in my head get loud I wish that I could shut them out I'm sorry that I let you down L-l-let you down",
     "song_length": 3.66,
     "genre": "jazz",
     "release_date": "2016-06-04"
@@ -123,6 +138,7 @@
     "_id": 15,
     "title": "Him & I",
     "artist": "G-EAZY & HALSEY",
+    "lyrics": "Cross my heart, hope to die To my lover, I'd never lie He said I swear I'll try In the end, it's him and I He's out his head, I'm out my mind We got that love, the crazy kind I am his and he is mine In the end, it's him and I, him and I",
     "song_length": 3.88,
     "genre": "pop",
     "release_date": "2015-09-18"
@@ -131,6 +147,7 @@
     "_id": 16,
     "title": "Bodak Yellow",
     "artist": "CARDI B",
+    "lyrics": "Said little bitch, you can't fuck with me If you wanted to These expensive, these is red bottoms These is bloody shoes Hit the store, I can get 'em both I don't wanna choose And I'm quick, cut a nigga hustle Don't get comfortable",
     "song_length": 2.96,
     "genre": "jazz",
     "release_date": "2016-08-31"
@@ -139,6 +156,7 @@
     "_id": 17,
     "title": "Meant To Be ",
     "artist": "BEBE REXHA & FLORIDA GEORGIA LINE",
+    "lyrics": "Baby, lay on back and relax, kick your pretty feet up on my dash No need to go​ nowhere fast, let's enjoy right here where we at Who knows where this road is supposed to lead We got nothing but time As long as you're right here next to me, everything's gonna be alright If it's meant to be, it'll be, it'll be Baby, just let it be If it's meant to be, it'll be, it'll be Baby, just let it be So, won't you ride with me, ride with me? See where this thing goes If it's meant to be, it'll be, it'll be Baby, if it's meant to be",
     "song_length": 4.19,
     "genre": "pop",
     "release_date": "2017-01-12"
@@ -147,6 +165,7 @@
     "_id": 18,
     "title": "Gummo",
     "artist": "Marina King",
+    "lyrics": "Niggas iffy, uh, Blicky got the stiffy, uh Got the blicky, uh, drum it holds fifty, uh Scum Gang",
     "song_length": 3.52,
     "genre": "pop",
     "release_date": "2017-04-02"
@@ -155,6 +174,7 @@
     "_id": 19,
     "title": "Feel It Still ",
     "artist": "PORTUGAL. THE MAN",
+    "lyrics": "Can't keep my hands to myself Think I'll dust 'em off, put 'em back up on the shelf In case my little baby girl is in need Am I coming out of left field?",
     "song_length": 5.04,
     "genre": "jazz",
     "release_date": "2014-10-22"
@@ -163,6 +183,7 @@
     "_id": 20,
     "title": "Shape Of You",
     "artist": "ED SHEERAN",
+    "lyrics": "Girl, you know I want your love Your love was handmade for somebody like me Come on now, follow my lead I may be crazy, don't mind me Say, boy, let's not talk too much Grab on my waist and put that body on me Come on now, follow my lead Come, come on now, follow my lead",
     "song_length": 5.21,
     "genre": "pop",
     "release_date": "2017-09-18"
@@ -171,6 +192,7 @@
     "_id": 21,
     "title": "How Long",
     "artist": "CHARLIE PUTH",
+    "lyrics": "She said, Boy, tell me honestly Was it real or just for show?, yeah She said Save your apologies Baby I just gotta know",
     "song_length": 4.89,
     "genre": "jazz",
     "release_date": "2015-04-09"
@@ -179,6 +201,7 @@
     "_id": 22,
     "title": "Wolves",
     "artist": "SELENA GOMEZ x MARSHMELLO",
+    "lyrics": "In your eyes, there's a heavy blue One to love and one to lose Sweet divide, a heavy truth Water or wine, don't make me choose",
     "song_length": 4.09,
     "genre": "romantic",
     "release_date": "2015-03-03"
@@ -187,6 +210,7 @@
     "_id": 23,
     "title": "I Get The Bag",
     "artist": "GUCCI MANE featuring MIGOS",
+    "lyrics": "You get the bag and fumble it I get the bag and flip it and tumble it (yeah) Straight out the lot, threehundred cash (cash) And the car came with a blunt in it (yeah) Lil mama a thot, and she got ass (thot) And she gon' fuck up a bag (yeah) Pull up to the spot, livin' too fast (yeah) Droppin' the dope in the stash (yah)",
     "song_length": 3.47,
     "genre": "romantic",
     "release_date": "2015-06-08"
@@ -195,608 +219,9 @@
     "_id": 24,
     "title": "I Fall Apart ",
     "artist": "POST MALONE",
+    "lyrics": "She told me that I'm not enough, yeah And she left me with a broken heart, yeah She fooled me twice and it's all my fault, yeah She cut too deep, now she left me scarred, yeah Now there's too many thoughts goin' through my brain, yeah And now I'm takin' these shots like it's novacane, yeah",
     "song_length": 7.24,
     "genre": "pop",
     "release_date": "2014-03-11"
-  },
-  {
-    "_id": 25,
-    "title": "What Lovers Do ",
-    "artist": "MAROON 5 featuring SZA",
-    "song_length": 4.93,
-    "genre": "romantic",
-    "release_date": "2014-09-12"
-  },
-  {
-    "_id": 26,
-    "title": "Young Dumb & Broke ",
-    "artist": "KHALID",
-    "song_length": 6.52,
-    "genre": "rock",
-    "release_date": "2014-08-14"
-  },
-  {
-    "_id": 27,
-    "title": "Plain Jane ",
-    "artist": "A$AP FERG",
-    "song_length": 3.14,
-    "genre": "pop",
-    "release_date": "2015-12-28"
-  },
-  {
-    "_id": 28,
-    "title": "Believer",
-    "artist": "IMAGINE DRAGONS",
-    "song_length": 4.12,
-    "genre": "pop",
-    "release_date": "2017-06-09"
-  },
-  {
-    "_id": 29,
-    "title": "Sky Walker ",
-    "artist": "MIGUEL featuring TRAVIS SCOTT",
-    "song_length": 3.86,
-    "genre": "jazz",
-    "release_date": "2014-02-04"
-  },
-  {
-    "_id": 30,
-    "title": "River",
-    "artist": "EMINEM featuring ED SHEERAN",
-    "song_length": 2.53,
-    "genre": "pop",
-    "release_date": "2014-05-14"
-  },
-  {
-    "_id": 31,
-    "title": "The Way Life Goes ",
-    "artist": "LIL UZI VERT",
-    "song_length": 6.92,
-    "genre": "pop",
-    "release_date": "2016-04-07"
-  },
-  {
-    "_id": 32,
-    "title": "Despacito ",
-    "artist": "LUIS FONSI featuring DADDY YANKEE",
-    "song_length": 5.89,
-    "genre": "rock",
-    "release_date": "2017-02-03"
-  },
-  {
-    "_id": 33,
-    "title": "Mi Gente",
-    "artist": "J BALVIN & WILLY WILLIAM",
-    "song_length": 5.64,
-    "genre": "rock",
-    "release_date": "2015-05-18"
-  },
-  {
-    "_id": 34,
-    "title": "End Game",
-    "artist": "TAYLOR SWIFT featuring ED SHEERAN & FUTURE",
-    "song_length": 4.1,
-    "genre": "pop",
-    "release_date": "2017-11-24"
-  },
-  {
-    "_id": 35,
-    "title": "Bank Account",
-    "artist": "21 SAVAGE",
-    "song_length": 4.62,
-    "genre": "bolly",
-    "release_date": "2017-06-15"
-  },
-  {
-    "_id": 36,
-    "title": "That's What I Like ",
-    "artist": "BRUNO MARS",
-    "song_length": 2.7,
-    "genre": "romantic",
-    "release_date": "2014-11-26"
-  },
-  {
-    "_id": 37,
-    "title": "Marry Me",
-    "artist": "THOMAS RHETT",
-    "song_length": 6,
-    "genre": "rock",
-    "release_date": "2014-01-19"
-  },
-  {
-    "_id": 38,
-    "title": "Let Me Go",
-    "artist": "HAILEE STEINFELD & ALESSO feat FLORIDA GEORGIA LINE & WATT"
-    "song_length": 5.28,
-    "genre": "rock",
-    "release_date": "2016-05-28"
-  },
-  {
-    "_id": 39,
-    "title": "Attention",
-    "artist": "CHARLIE PUTH",
-    "song_length": 3.2,
-    "genre": "jazz",
-    "release_date": "2014-11-30"
-  },
-  {
-    "_id": 40,
-    "title": "The Weekend",
-    "artist": "SZA",
-    "song_length": 2.1,
-    "genre": "jazz",
-    "release_date": "2014-01-19"
-  },
-  {
-    "_id": 41,
-    "title": "All The Stars",
-    "artist": "KENDRICK LAMAR & SZA",
-    "song_length": 3.94,
-    "genre": "bolly",
-    "release_date": "2017-10-01"
-  },
-  {
-    "_id": 42,
-    "title": "Roll In Peace",
-    "artist": "KODAK BLACK featuring XXXTENTACION",
-    "song_length": 5.07,
-    "genre": "jazz",
-    "release_date": "2015-07-30"
-  },
-  {
-    "_id": 43,
-    "title": "Silence",
-    "artist": "MARSHMELLO featuring KHALID",
-    "song_length": 6.79,
-    "genre": "romantic",
-    "release_date": "2014-03-15"
-  },
-  {
-    "_id": 44,
-    "title": "Lights Down Low",
-    "artist": "MAX featuring GNASH",
-    "song_length": 5.32,
-    "genre": "rock",
-    "release_date": "2017-04-15"
-  },
-  {
-    "_id": 45,
-    "title": "Ric Flair Drip",
-    "artist": "OFFSET & METRO BOOMIN",
-    "song_length": 5.03,
-    "genre": "rock",
-    "release_date": "2015-07-08"
-  },
-  {
-    "_id": 46,
-    "title": "Unforgettable",
-    "artist": "FRENCH MONTANA featuring SWAE LEE",
-    "song_length": 4.92,
-    "genre": "romantic",
-    "release_date": "2016-07-11"
-  },
-  {
-    "_id": 47,
-    "title": "Lemon",
-    "artist": "N*E*R*D & RIHANNA",
-    "song_length": 2.28,
-    "genre": "pop",
-    "release_date": "2014-05-13"
-  },
-  {
-    "_id": 48,
-    "title": "Like I Loved You",
-    "artist": "BRETT YOUNG",
-    "song_length": 7.84,
-    "genre": "rock",
-    "release_date": "2017-10-30"
-  },
-  {
-    "_id": 49,
-    "title": "Yours",
-    "artist": "RUSSELL DICKERSON",
-    "song_length": 7.69,
-    "genre": "romantic",
-    "release_date": "2015-10-11"
-  },
-  {
-    "_id": 50,
-    "title": "Pills And Automobiles",
-    "artist": "CHRIS BROWN feat YO GOTTI, A BOOGIE WIT DA HOODIE & KODAK BL",
-    "song_length": 6.81,
-    "genre": "pop",
-    "release_date": "2015-11-18"
-  },
-  {
-    "_id": 51,
-    "title": "eiusmod",
-    "artist": "Sharp Chavez",
-    "song_length": 3.15,
-    "genre": "romantic",
-    "release_date": "2016-09-10"
-  },
-  {
-    "_id": 52,
-    "title": "ullamco",
-    "artist": "Lily Guerra",
-    "song_length": 7.73,
-    "genre": "rock",
-    "release_date": "2014-02-05"
-  },
-  {
-    "_id": 53,
-    "title": "aliqua",
-    "artist": "Roslyn Cameron",
-    "song_length": 7.7,
-    "genre": "pop",
-    "release_date": "2016-11-27"
-  },
-  {
-    "_id": 54,
-    "title": "velit",
-    "artist": "Freda Rogers",
-    "song_length": 3.94,
-    "genre": "pop",
-    "release_date": "2015-08-04"
-  },
-  {
-    "_id": 55,
-    "title": "consectetur",
-    "artist": "Joseph George",
-    "song_length": 3.4,
-    "genre": "rock",
-    "release_date": "2016-11-24"
-  },
-  {
-    "_id": 56,
-    "title": "qui",
-    "artist": "Pierce Quinn",
-    "song_length": 7.84,
-    "genre": "pop",
-    "release_date": "2014-04-16"
-  },
-  {
-    "_id": 57,
-    "title": "culpa",
-    "artist": "Nola Bowen",
-    "song_length": 4.22,
-    "genre": "romantic",
-    "release_date": "2017-08-18"
-  },
-  {
-    "_id": 58,
-    "title": "esse",
-    "artist": "Kathie Carter",
-    "song_length": 3.88,
-    "genre": "rock",
-    "release_date": "2016-08-27"
-  },
-  {
-    "_id": 59,
-    "title": "commodo",
-    "artist": "Shana Wall",
-    "song_length": 3.85,
-    "genre": "rock",
-    "release_date": "2017-09-28"
-  },
-  {
-    "_id": 60,
-    "title": "reprehenderit",
-    "artist": "Nicole Watson",
-    "song_length": 2.67,
-    "genre": "romantic",
-    "release_date": "2017-02-13"
-  },
-  {
-    "_id": 61,
-    "title": "ullamco",
-    "artist": "Lee Pennington",
-    "song_length": 4.87,
-    "genre": "rock",
-    "release_date": "2016-10-10"
-  },
-  {
-    "_id": 62,
-    "title": "incididunt",
-    "artist": "Cynthia Stevenson",
-    "song_length": 7.08,
-    "genre": "romantic",
-    "release_date": "2014-04-06"
-  },
-  {
-    "_id": 63,
-    "title": "ex",
-    "artist": "Althea Dudley",
-    "song_length": 5.87,
-    "genre": "rock",
-    "release_date": "2014-06-21"
-  },
-  {
-    "_id": 64,
-    "title": "minim",
-    "artist": "Allie Fisher",
-    "song_length": 2.1,
-    "genre": "pop",
-    "release_date": "2014-04-18"
-  },
-  {
-    "_id": 65,
-    "title": "deserunt",
-    "artist": "Vance Strickland",
-    "song_length": 5.03,
-    "genre": "rock",
-    "release_date": "2017-04-14"
-  },
-  {
-    "_id": 66,
-    "title": "excepteur",
-    "artist": "Mccarthy Alston",
-    "song_length": 3.94,
-    "genre": "jazz",
-    "release_date": "2016-12-17"
-  },
-  {
-    "_id": 67,
-    "title": "velit",
-    "artist": "Georgette Valencia",
-    "song_length": 6.65,
-    "genre": "bolly",
-    "release_date": "2014-07-02"
-  },
-  {
-    "_id": 68,
-    "title": "ex",
-    "artist": "Harmon Levine",
-    "song_length": 2.92,
-    "genre": "jazz",
-    "release_date": "2016-07-23"
-  },
-  {
-    "_id": 69,
-    "title": "esse",
-    "artist": "Rosalyn Howell",
-    "song_length": 5.86,
-    "genre": "jazz",
-    "release_date": "2015-03-23"
-  },
-  {
-    "_id": 70,
-    "title": "excepteur",
-    "artist": "Bettye Norton",
-    "song_length": 2.75,
-    "genre": "pop",
-    "release_date": "2015-10-28"
-  },
-  {
-    "_id": 71,
-    "title": "pariatur",
-    "artist": "Leann Holloway",
-    "song_length": 4.88,
-    "genre": "rock",
-    "release_date": "2015-04-21"
-  },
-  {
-    "_id": 72,
-    "title": "id",
-    "artist": "Levine Peck",
-    "song_length": 5.59,
-    "genre": "jazz",
-    "release_date": "2017-03-09"
-  },
-  {
-    "_id": 73,
-    "title": "deserunt",
-    "artist": "Reba Armstrong",
-    "song_length": 4.92,
-    "genre": "jazz",
-    "release_date": "2015-11-03"
-  },
-  {
-    "_id": 74,
-    "title": "dolore",
-    "artist": "Mavis Lowery",
-    "song_length": 2.34,
-    "genre": "rock",
-    "release_date": "2016-12-19"
-  },
-  {
-    "_id": 75,
-    "title": "Lorem",
-    "artist": "Diaz Cooper",
-    "song_length": 7.03,
-    "genre": "jazz",
-    "release_date": "2016-08-08"
-  },
-  {
-    "_id": 76,
-    "title": "adipisicing",
-    "artist": "Kristen Gordon",
-    "song_length": 7.69,
-    "genre": "pop",
-    "release_date": "2017-12-31"
-  },
-  {
-    "_id": 77,
-    "title": "aliquip",
-    "artist": "Wolf Woodward",
-    "song_length": 7.28,
-    "genre": "jazz",
-    "release_date": "2017-04-27"
-  },
-  {
-    "_id": 78,
-    "title": "enim",
-    "artist": "Sybil Hunter",
-    "song_length": 5.51,
-    "genre": "pop",
-    "release_date": "2016-01-17"
-  },
-  {
-    "_id": 79,
-    "title": "ullamco",
-    "artist": "Tamra Vargas",
-    "song_length": 6.19,
-    "genre": "pop",
-    "release_date": "2014-06-20"
-  },
-  {
-    "_id": 80,
-    "title": "dolor",
-    "artist": "Holden Pruitt",
-    "song_length": 6.74,
-    "genre": "bolly",
-    "release_date": "2014-11-02"
-  },
-  {
-    "_id": 81,
-    "title": "cillum",
-    "artist": "Cathy Witt",
-    "song_length": 5.11,
-    "genre": "bolly",
-    "release_date": "2014-06-15"
-  },
-  {
-    "_id": 82,
-    "title": "commodo",
-    "artist": "Leonard Pittman",
-    "song_length": 2.4,
-    "genre": "pop",
-    "release_date": "2014-11-26"
-  },
-  {
-    "_id": 83,
-    "title": "officia",
-    "artist": "Noemi Fields",
-    "song_length": 7.63,
-    "genre": "pop",
-    "release_date": "2017-02-03"
-  },
-  {
-    "_id": 84,
-    "title": "dolore",
-    "artist": "Fowler Lester",
-    "song_length": 5.25,
-    "genre": "bolly",
-    "release_date": "2017-05-14"
-  },
-  {
-    "_id": 85,
-    "title": "nulla",
-    "artist": "Susie Acosta",
-    "song_length": 6.19,
-    "genre": "bolly",
-    "release_date": "2014-06-01"
-  },
-  {
-    "_id": 86,
-    "title": "et",
-    "artist": "Goff Bruce",
-    "song_length": 4.15,
-    "genre": "rock",
-    "release_date": "2015-02-01"
-  },
-  {
-    "_id": 87,
-    "title": "elit",
-    "artist": "Rosa Santana",
-    "song_length": 5.86,
-    "genre": "rock",
-    "release_date": "2016-06-07"
-  },
-  {
-    "_id": 88,
-    "title": "consectetur",
-    "artist": "Sophia Mcbride",
-    "song_length": 3.61,
-    "genre": "jazz",
-    "release_date": "2016-10-25"
-  },
-  {
-    "_id": 89,
-    "title": "pariatur",
-    "artist": "Fleming Santiago",
-    "song_length": 7.71,
-    "genre": "bolly",
-    "release_date": "2017-05-28"
-  },
-  {
-    "_id": 90,
-    "title": "do",
-    "artist": "Lois Hull",
-    "song_length": 5.09,
-    "genre": "jazz",
-    "release_date": "2014-02-13"
-  },
-  {
-    "_id": 91,
-    "title": "nostrud",
-    "artist": "Bernice Farrell",
-    "song_length": 7.83,
-    "genre": "bolly",
-    "release_date": "2014-08-03"
-  },
-  {
-    "_id": 92,
-    "title": "Lorem",
-    "artist": "Phillips Pierce",
-    "song_length": 4.1,
-    "genre": "romantic",
-    "release_date": "2016-02-03"
-  },
-  {
-    "_id": 93,
-    "title": "culpa",
-    "artist": "Ware Blackburn",
-    "song_length": 2.3,
-    "genre": "jazz",
-    "release_date": "2015-03-07"
-  },
-  {
-    "_id": 94,
-    "title": "non",
-    "artist": "Opal Gilliam",
-    "song_length": 7.27,
-    "genre": "romantic",
-    "release_date": "2017-06-10"
-  },
-  {
-    "_id": 95,
-    "title": "aute",
-    "artist": "Sutton Burch",
-    "song_length": 4.07,
-    "genre": "bolly",
-    "release_date": "2015-08-19"
-  },
-  {
-    "_id": 96,
-    "title": "culpa",
-    "artist": "Erica Ellis",
-    "song_length": 2.45,
-    "genre": "pop",
-    "release_date": "2017-08-03"
-  },
-  {
-    "_id": 97,
-    "title": "elit",
-    "artist": "Trujillo Thornton",
-    "song_length": 7.63,
-    "genre": "jazz",
-    "release_date": "2018-01-08"
-  },
-  {
-    "_id": 98,
-    "title": "ad",
-    "artist": "Debbie Leblanc",
-    "song_length": 2.25,
-    "genre": "rock",
-    "release_date": "2015-01-29"
-  },
-  {
-    "_id": 99,
-    "title": "eiusmod",
-    "artist": "Victoria Cotton",
-    "song_length": 5.1,
-    "genre": "bolly",
-    "release_date": "2015-08-22"
   }
 ]
